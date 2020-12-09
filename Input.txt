@@ -1,1 +1,3 @@
 Ovo je skripta za input.
+
+Dodan je console input.
