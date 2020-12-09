@@ -1,0 +1,3 @@
+Ovo je health skripta.
+
+i dodani su kul healthi za playera.
