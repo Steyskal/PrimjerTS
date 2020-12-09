@@ -1,1 +1,3 @@
 Ovo je skripta za input.
+
+Dodajem input za shoot.
